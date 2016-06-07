@@ -23,7 +23,10 @@ github.com		깃허브 사이트 가서 해당 디렉토리 만들고
 
 
 
-
+내용 변경시 
+git add sample.txt	add 다음에 해당 파일을 적어둠
+git commit -m "하고 싶은 말" 	위 파일을 커밋함
+git push		위 파일을 푸쉬 하면 깃허브에 반영됨
 
 
 
