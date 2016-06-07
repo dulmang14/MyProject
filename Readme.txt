@@ -12,3 +12,7 @@ git commit -am "change Readme.txt"
 
 맥에서 내용을 수정했다
 우분투에서 제일 먼저 해야 하는게 git pull 명령어를 치면 끝나는지 한번 보자 
+
+커밋을 할때 "" 안에 커밋한 내용을 작성하고 엔터
+git commit -m "add insert"
+
