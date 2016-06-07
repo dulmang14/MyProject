@@ -19,7 +19,11 @@ vim sample.txt 		vim에서 작업 후 저장
 git status 		깃 현 상태 보기 
 git add sample.txt	샘플 텍스트 인덱싱 하고
 git commit -m "하고 싶은 말" 	샘플 파일 커밋한다
-github.com		깃허브 사이트 가서 해당 디렉토리 만들고
+github.com		깃허브 사이트 가서 해당 디렉토리 만들고 주소 복사
+git remote add origin https://github.com/dulmang14/디렉토리명.git
+git push 	또는 안될시
+git push -u origin master
+
 
 
 
